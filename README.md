@@ -3,4 +3,5 @@ This model performs fuzzy computations to determine the weighted average and cen
 Using Mamdani fuzzy inference iterations, it evaluates multiple fuzzy rules to infer the optimal washing conditions.
 As the final output, the system identifies and marks the most suitable washing programs among 27 predefined cycles based on fuzzy decision-making principles.
 
-<img width="1247" height="651" alt="image" src="https://github.com/user-attachments/assets/6461e710-d5ea-4349-b61c-8f0856db5f05" />
+<img width="1245" height="647" alt="image" src="https://github.com/user-attachments/assets/e444d016-2d44-446b-a4bf-c151396f504a" />
+
