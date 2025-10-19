@@ -10,5 +10,5 @@ As the final output, the system identifies and marks the most suitable washing p
 
 ## 🖼 Screenshots
 <p align="center">
-<img width="1245" height="647" alt="image" src="https://github.com/user-attachments/assets/e444d016-2d44-446b-a4bf-c151396f504a" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/e444d016-2d44-446b-a4bf-c151396f504a" />
 </p>
