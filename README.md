@@ -1,4 +1,5 @@
 Washin Machine AI (Fuzzy Logic) | 2024
+
 A Fuzzy Logic-based system designed using the Mamdani inference method.
 This model performs fuzzy computations to determine the weighted average and centroid values of key washing parameters such as Spin Speed, Duration, and Detergent Amount.
 Using Mamdani fuzzy inference iterations, it evaluates multiple fuzzy rules to infer the optimal washing conditions.
